@@ -7,7 +7,7 @@ body {
     justify-content: center;
     align-items: flex-start;
     min-height: 100vh;
-    background-color:#007bff;
+    background-color:rgb(204, 255, 255);
   }
   
   .app-container {
@@ -15,7 +15,7 @@ body {
     background:rgb(8, 139, 146);
     padding: 20px 30px;
     border-radius: 10px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    box-shadow:rgb(8, 139, 146);
     text-align: center;
     width: 80%;
     max-width: 500px;
@@ -23,7 +23,7 @@ body {
   
   input {
     padding: 10px;
-    width: 200px;
+    width: 250px;
     border: 1px solid #ccc;
     border-radius: 5px;
     margin-right: 10px;
@@ -69,7 +69,7 @@ body {
   }
   footer,h2{
     margin-top: 20px;
-    background:rgb(141, 9, 134);
+    background:#D8BFD8;
     color: black;
     padding: 10px;
     text-align: center;
